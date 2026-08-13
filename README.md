@@ -134,9 +134,9 @@ python DL.py
 Before execution, set the required lattice size and corresponding paths, for example:
 
 ```python
-L = 128
-CLEAN_CSV = Path("../JOB5_Noise/J5Data/MCD128.csv")
-NOISY_CSV = Path("../JOB5_Noise/J5Data/MCDN128.csv")
+L = 32
+CLEAN_CSV = Path("../JOB5_Noise/J5Data/MCD32.csv")
+NOISY_CSV = Path("../JOB5_Noise/J5Data/MCDN32.csv")
 OUT_DIR = "./Generated_L128"
 ```
 
